@@ -4,13 +4,15 @@ Me encuentro en un proceso de **transformación** hacia la **Industria de la Tec
 
 Apalancado por el **análisis de datos** 📊 y el **agilismo** ⚡, con la **mejora continua** 📈 y las **interacciones con las personas** como mindset vital 💥.
 
-Finalizando recientemente una Diplomatura en Análisis de Datos ✍. En proceso de aprendizaje introductorio al Python! 📖
+Finalizando recientemente una Diplomatura en Análisis de Datos ✍. En proceso de aprendizaje introductorio al Python y a la Ciencia de Datos! 📖
 
 ---------------------------------------------------------------------
 
 🌐 Socials:
 
 www.linkedin.com/in/martinsaccogarcia
+
+www.linkedin.com/company/tegewa-uy/?viewAsMember=true
 
 ---------------------------------------------------------------------
 
