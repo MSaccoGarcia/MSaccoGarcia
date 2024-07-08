@@ -6,6 +6,17 @@ Apalancado por el **análisis de datos** 📊 y el **agilismo** ⚡, con la **me
 
 Finalizando recientemente una Diplomatura en Análisis de Datos ✍. En proceso de aprendizaje introductorio al Python y a la Ciencia de Datos! 📖
 
+Les comparto un breve detalle de mis skills tecnológicas:
+
+- <b>SQL Queries</b>
+- - <b>PowerBI Visualización</b> (incluido un introductorio a DAX)
+- - - <b>Azure</b> (Introducción a Machine Learning)
+- - - - <b>OpenRefine</b> (Tratamiento de base de datos con introductoria a GREL y uso de expresiones regulares)
+- - - <b>Python</b> (Introductorio dentro del camino de la Ciencia de Datos)
+- - <b>Trello</b> (a nivel gerencial empresarial y de proyectos personales)
+- <b>SCRUM</b> y <b>KANBAN</b> (como tecnologías de gestión)
+
+
 ---------------------------------------------------------------------
 
 🌐 Socials:
