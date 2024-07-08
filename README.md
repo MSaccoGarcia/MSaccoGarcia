@@ -6,7 +6,7 @@ Apalancado por el **análisis de datos** 📊 y el **agilismo** ⚡, con la **me
 
 Finalizando recientemente una Diplomatura en Análisis de Datos ✍. En proceso de aprendizaje introductorio al Python y a la Ciencia de Datos! 📖
 
-Les comparto un breve detalle de mis skills tecnológicas:
+Les comparto un breve detalle de mis skills tecnológicas 🙌:
 
 - <b>SQL Queries</b>
 - - <b>PowerBI Visualización</b> (incluido un introductorio a DAX)
