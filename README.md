@@ -12,7 +12,7 @@ Finalizando recientemente una Diplomatura en Análisis de Datos ✍. En proceso 
 
 www.linkedin.com/in/martinsaccogarcia
 
-www.linkedin.com/company/tegewa-uy/?viewAsMember=true
+www.linkedin.com/company/tegewa-uy
 
 ---------------------------------------------------------------------
 
